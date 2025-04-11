@@ -1,6 +1,6 @@
 ### DWM
 This is my build of dwm + dwmblocks + dmenu.
-I used the color palette and wallpapers of this person.
+I used the color palette and wallpapers of [this person](https://github.com/Edesem).
 The goal of this build is to make the user feel like they are using a beautiful, simple, fast and **intuitive** tiling DE
 
 ### Setup
